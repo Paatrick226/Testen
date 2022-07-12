@@ -43,11 +43,14 @@ namespace Testen
         public string name { get; set; }
         public int age { get; set; }
 
+        // ctor tab tab
         public Player (string _name, int _age)
         {
             name = _name;
             age = _age;
         }
+
+
 
     }
 
